@@ -4,7 +4,7 @@ MyNotes App using Firebase for Backend services.
 Implementing Firebase Authentication and Realtime Database for Maintaining our ToDoList
 
 ## The App so far
-| ![auth](https://user-images.githubusercontent.com/68576993/97004752-214f8980-155b-11eb-99d6-4790cb91e0d4.PNG) | ![auth](https://user-images.githubusercontent.com/68576993/97004752-214f8980-155b-11eb-99d6-4790cb91e0d4.PNG)  |
+| ![auth](https://user-images.githubusercontent.com/68576993/97004752-214f8980-155b-11eb-99d6-4790cb91e0d4.PNG) | ![exlist](https://user-images.githubusercontent.com/68576993/97007176-9b354200-155e-11eb-8021-afa84be532a4.PNG)  |
 | ------------- | ------------- |
 
 ### Features
